@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "name": "El club de la pelea",
+    "img": "imagen_01"
+  },
+  {
+    "id": 2,
+    "name": "Memento",
+    "img": "imagen_02"
+  },
+  {
+    "id": 3,
+    "name": "Seven",
+    "img": "imagen_03"
+  },
+  {
+    "id": 4,
+    "name": "Mr. Robot",
+    "img": "imagen_04"
+  },
+  {
+    "id": 5,
+    "name": "American Psycho",
+    "img": "imagen_05"
+  },
+  {
+    "id": 6,
+    "name": "Tranispotting",
+    "img": "imagen_06"
+  },
+  {
+    "id": 7,
+    "name": "Mr. NoBody",
+    "img": "imagen_07"
+  },
+  {
+    "id": 8,
+    "name": "29 Days Later",
+    "img": "imagen_08"
+  },
+  {
+    "id": 9,
+    "name": "Shingeki no kyojin",
+    "img": "imagen_09"
+  },
+  {
+    "id": 10,
+    "name": "The Simpsons",
+    "img": "imagen_10"
+  },
+  {
+    "id": 11,
+    "name": "La tumba de las luciernagas",
+    "img": "imagen_11"
+  },
+  {
+    "id": 12,
+    "name": "Family Guy",
+    "img": "imagen_12"
+  }
+]
